@@ -1,16 +1,7 @@
 # syntax=docker/dockerfile:1
 
-FROM node:12.18.1
-ENV NODE_ENV=production
+FROM httpd
 
-WORKDIR /app
+COPY . /var/www/html
 
-COPY ["package.json","package-lock.json*","./"]
-
-RUN npm install --production
-
-COPY . .
-
-CMD ["node","server.js"]
-
-EXPOSE 9999
+EXPOSE 8080
