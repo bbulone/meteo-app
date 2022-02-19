@@ -1,4 +1,4 @@
-# app-meteo-en-javascript# meteo-app
+# meteo-app
 
-MAHIEU ROBIN , FAUQUET LOÏC, BULONE BENJAMIN
+MAHIEU Robin, FAUQUET Loïc, BULONE Benjamin
  
