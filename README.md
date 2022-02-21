@@ -8,5 +8,5 @@ MAHIEU Robin, FAUQUET Loïc, BULONE Benjamin
 
 ## L'app Meteo
 Lorsque nosu arrivons sur la page nous devons autoriser le partage de la position, afin que l'application puisse nous donner la météo local.
-![Test Image 1](capture autorisation.png)
-
+<br/>
+![Test Image 1](.png)
