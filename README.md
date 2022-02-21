@@ -10,3 +10,6 @@ MAHIEU Robin, FAUQUET Loïc, BULONE Benjamin
 Lorsque nous arrivons sur la page nous devons autoriser le partage de la position, afin que l'application puisse nous donner la météo local.
 <br/>
 ![Screenshot](autorisation.png)
+<br/>
+Une fois que nous avons autoriser la géolocalisation, voici la méteo sur une semaine.
+
