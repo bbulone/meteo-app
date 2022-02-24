@@ -8,10 +8,10 @@ MAHIEU Robin, FAUQUET Loïc, BULONE Benjamin
 ```docker run docker-npm```
 
 ## L'app Meteo
-Lorsque nous arrivons sur la page nous devons autoriser le partage de la position, afin que l'application puisse nous donner la météo local.
+Lorsque nous arrivons sur la page, nous devons autoriser le partage de la position afin que l'application puisse nous donner la météo locale.
 <br/>
 ![Screenshot](autorisation.png)
 <br/>
-Une fois que nous avons autoriser la géolocalisation, voici la méteo sur une semaine.
+Une fois que nous avons autorisé la géolocalisation, voici la méteo sur une semaine.
 <br/>
 ![Screenshot](appli.png)
